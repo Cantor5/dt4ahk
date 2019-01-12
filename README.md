@@ -1,2 +1,2 @@
 # dt4ahk
-development tools for autohotkey
+developer tools for autohotkey
